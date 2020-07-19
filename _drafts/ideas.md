@@ -1,9 +1,9 @@
 ---
-layout: default
-#title: Ideas for Posts
+layout: post
+mathjax: true
+author: SR
+title: Ideas for Posts
 ---
-
-# Ideas for posts
 
 ## Everyday statistics
 
